@@ -1,4 +1,4 @@
-package sidm.com.needforshop;
+package com.project_test_run.myapplication;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
